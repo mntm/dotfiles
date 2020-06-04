@@ -1,0 +1,17 @@
+# ignore everything
+/*
+
+# files to be tracked
+!.gitignore
+!.i3status.conf
+!.fehbg
+!.primary_pkg
+!.vimrc
+!.zshrc
+!/.config/
+/.config/*
+!/.config/dunst/
+!/.config/i3/
+!/.config/termite/
+
+
